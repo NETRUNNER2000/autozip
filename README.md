@@ -1,24 +1,14 @@
 # autozip
 
-## Project setup
-```
-yarn install
-```
+Electron and Vue program to automate the task of zipping up code for marking. 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+This project is being worked on. Mac testing planned for the future, but it works on Windows currently
 
-### Compiles and minifies for production
-```
-yarn build
-```
+npm install - get project setup
 
-### Lints and fixes files
-```
-yarn lint
-```
+npm run electron:serve - run dev server
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm run electron:build - run a build on your specific platform
+
+Please report bugs to shaahid.adams@gmail.com
+
